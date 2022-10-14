@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello world people welcome
+=======
+hello world welcome
+>>>>>>> js_assignments
 =======
 <<<<<<< HEAD
 hello hi

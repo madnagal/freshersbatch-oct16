@@ -6,7 +6,7 @@ hello world welcome
 >>>>>>> js_assignments
 =======
 <<<<<<< HEAD
-hello hi
+hello hi hello
 =======
 Assignments is a task or work allocated to someone
 >>>>>>> html_assignments

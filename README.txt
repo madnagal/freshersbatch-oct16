@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-hello world people come
+hello world people come to see beautiful world
 =======
 hello world welcome
 >>>>>>> js_assignments
